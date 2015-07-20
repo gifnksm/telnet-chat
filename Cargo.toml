@@ -1,0 +1,14 @@
+[package]
+name = "telnet-chat"
+version = "0.1.0"
+authors = ["gifnksm <makoto.nksm+github@gmail.com>"]
+license="MIT"
+readme = "README.md"
+repository = "https://github.com/gifnksm/telnet-chat"
+description = "Telnet chat application"
+
+[dependencies]
+docopt = "*"
+docopt_macros = "*"
+rand = "*"
+rustc-serialize = "*"
